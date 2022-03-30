@@ -1,5 +1,5 @@
+import time
 import textwrap
-
 import lark
 from lark import Lark
 from lark.exceptions import LarkError, UnexpectedEOF, UnexpectedCharacters, VisitError

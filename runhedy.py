@@ -1,3 +1,5 @@
+import time
+import hedy_translation
 import sys
 import hedy
 
